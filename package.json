@@ -19,6 +19,9 @@
     "arc-menu",
     "satellite-menu"
   ],
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
   "peerDependencies": {
     "react-native": ">=0.11"
   },
